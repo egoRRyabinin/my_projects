@@ -29,7 +29,7 @@
 
 ### Используемые библиотеки
 
-- pandas
-- scipy
-- matplotlib
-- seaborn
+- *pandas*
+- *scipy*
+- *matplotlib*
+- *seaborn*
